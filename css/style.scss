@@ -33,7 +33,10 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e9edf0;
+  //background-color: #e9edf0;
+  background-color: #b3dcf2;
+  background-image: url("img/fox2.png");
+  background-repeat: repeat;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -41,10 +44,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   @extend %merriweather;
   font-weight: 700;
+
 }
 
 article {
   margin: 5em 0;
+
 }
 
 p {
@@ -61,6 +66,7 @@ a {
 }
 
 img {
+
   width: 100%;
 }
 
@@ -91,6 +97,8 @@ button.btn, input.btn {
   background-color: white;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
+
+
   &.container {
     padding: 0;
   }

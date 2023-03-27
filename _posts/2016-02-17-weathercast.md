@@ -1,11 +1,11 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Transhumanists In VR'
 date: 2016-02-20 15:56:00
 categories: development
 tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+featured_image: '/img/posts/tivrlogo.png'
 project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
 button_text: 'Visit Project'
